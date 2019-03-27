@@ -1,0 +1,18 @@
+
+
+Monospace821 Bold 26w+
+ 
+0x20   ! " # $ % & ' ( ) * + , - . / 
+0x30 0 1 2 3 4 5 6 7 8 9 : ; < = > ? 
+0x40 @ A B C D E F G H I J K L M N O 
+0x50 P Q R S T U V W X Y Z [ \ ] ^ _ 
+0x60 ` a b c d e f g h i j k l m n o 
+0x70 p q r s t u v w x y z { | } ~  
+0x80 ? _ ? ? ? ? ? ? ? ? ? ? ? _ ? _ 
+0x90 _ ? ? ? ? ? ? ? ? ? ? ? ? _ ? ? 
+0xa0 ÿ ­ › œ   Ý  " c ¦ ® ª - r _ 
+0xb0 ø ñ ý 3 ' æ  ú , 1 § ¯ ¬ « _ ¨ 
+0xc0 A A A A Ž  ’ € E  E E I I I I 
+0xd0 D ¥ O O O O ™ x O U U U š Y _ á 
+0xe0 …   ƒ a „ † ‘ ‡ Š ‚ ˆ ‰  ¡ Œ ‹ 
+0xf0 ð ñ ò ó ô õ ö ÷ ø ù ú û ü ýþ
